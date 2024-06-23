@@ -40,4 +40,3 @@ build/
 ### Additional ###
 .idea/
 out/
-*.iml
