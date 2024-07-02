@@ -40,3 +40,4 @@ build/
 ### Additional ###
 .idea/
 out/
+pom.xml
