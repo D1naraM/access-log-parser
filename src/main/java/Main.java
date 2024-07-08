@@ -6,9 +6,9 @@ public class Main {
         int number1 = new Scanner(System.in).nextInt();
         int number2 = new Scanner(System.in).nextInt();
 
-        System.out.println("Сумма двух чисел равна: "+ (number1+number2));
-        System.out.println("Разность двух чисел равна: "+ (number1-number2));
-        System.out.println("Произведение двух чисел равна: "+ (number1*number2));
-        System.out.println("Частное двух чисел равна: "+ ((double)number1/number2));
+        System.out.println("Сумма двух чисел равна: " + (number1+number2));
+        System.out.println("Разность двух чисел равна: " + (number1-number2));
+        System.out.println("Произведение двух чисел равно: " + (number1*number2));
+        System.out.println("Частное двух чисел равно: " + ((double)number1/number2));
     }
 }
